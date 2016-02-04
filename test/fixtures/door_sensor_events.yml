@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prev_open: false
+  curr_open: false
+  door_sensor_id: 
+
+two:
+  prev_open: false
+  curr_open: false
+  door_sensor_id: 
